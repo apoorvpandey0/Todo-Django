@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'pages',
     # Third Part apps
     'crispy_forms',
-    'whitenoise'
 ]
 
 MIDDLEWARE = [
